@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\voyagetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:voyagetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\trainerform.overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:trainerform.overlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\trainerform.minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:trainerform.minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\floatingoverlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:floatingoverlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|c:\\users\\eonvw\\downloads\\voyagetrainer (6)\\voyagetrainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F54BB5FC-1A12-433B-9567-4CBE5B9EF1F4}|VoyageTrainer.csproj|solutionrelative:voyagetrainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{13b29bd0-3807-335c-9cad-ba55364c29cb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoyageTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\VoyageTrainer.cs",
+              "RelativeDocumentMoniker": "VoyageTrainer.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\VoyageTrainer.cs",
+              "RelativeToolTip": "VoyageTrainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsEAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T13:42:42.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerForm.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.cs",
+              "RelativeDocumentMoniker": "TrainerForm.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.cs",
+              "RelativeToolTip": "TrainerForm.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAADwvzUCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:41:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.cs",
+              "RelativeDocumentMoniker": "TrainerForm.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.cs [Design]",
+              "RelativeToolTip": "TrainerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:41:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainerForm.Minimap.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.Minimap.cs",
+              "RelativeDocumentMoniker": "TrainerForm.Minimap.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.Minimap.cs",
+              "RelativeToolTip": "TrainerForm.Minimap.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:20:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoyageTrainer.csproj",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\VoyageTrainer.csproj",
+              "RelativeDocumentMoniker": "VoyageTrainer.csproj",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\VoyageTrainer.csproj",
+              "RelativeToolTip": "VoyageTrainer.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T15:44:47.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FloatingOverlayForm.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\FloatingOverlayForm.cs",
+              "RelativeDocumentMoniker": "FloatingOverlayForm.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\FloatingOverlayForm.cs",
+              "RelativeToolTip": "FloatingOverlayForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:45:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainerForm.Overlay.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.Overlay.cs",
+              "RelativeDocumentMoniker": "TrainerForm.Overlay.cs",
+              "ToolTip": "C:\\Users\\eonvw\\Downloads\\VoyageTrainer (6)\\TrainerForm.Overlay.cs",
+              "RelativeToolTip": "TrainerForm.Overlay.cs",
+              "ViewState": "AgIAAI4CAAAAAAAAAAAAAI4CAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:45:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcbAAAAAAAAAAAUwMobAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-11-20T15:41:01.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PlatformTarget>x64</PlatformTarget>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="01_Trainer_Activated.wav" />
+    <None Remove="02_Option_Enabled.wav" />
+    <None Remove="03_Option_Disabled.wav" />
+    <None Remove="04_Game_Not_Found.wav" />
+    <None Remove="05_Extra_Sound.wav" />
+    <None Remove="06_Extra_Sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FloatingOverlayForm.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerForm.Minimap.cs" />
+    <Compile Include="TrainerForm.Overlay.cs" />
+    <Compile Include="VoyageTrainer.cs" />
+    <Compile Include="TrainerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerForm.Designer.cs">
+      <DependentUpon>TrainerForm.cs</DependentUpon>
+    </Compile>
+    <PackageReference Include="NAudio" Version="2.4.0" />
+    <Resource Include="Properties\Resources\01_Trainer_Activated.wav" />
+    <Resource Include="Properties\Resources\02_Option_Enabled.wav" />
+    <Resource Include="Properties\Resources\03_Option_Disabled.wav" />
+    <Resource Include="Properties\Resources\04_Game_Not_Found.wav" />
+    <Resource Include="Properties\Resources\05_Extra_Sound.wav" />
+    <Resource Include="Properties\Resources\06_Extra_Sound.wav" />
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TrainerForm.resx">
+      <DependentUpon>TrainerForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Remove="TrainerForm.Overlay.resx" />
+		<EmbeddedResource Remove="TrainerForm.Minimap.resx" />
+	</ItemGroup>
+</Project>
